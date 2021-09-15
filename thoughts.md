@@ -26,6 +26,19 @@ I could relate to students as I was in the same situation mere months ago, askin
 In teaching foundational topics, including proving the validity of the variational principles of mechanics, I articulated my own learning style. While studying discretization techniques in numerics courses, I became interested in the underlying variational formulation and the analytical treatment of PDEs. I studied Sobolev spaces, and wrote my own set of reference notes on the topic. I enjoyed the analytical rigor and saw a second degree in mathematics as means to place my engineering education in context within applied mathematics.
 
 ## Deep learning, composition, gradient flows
+In my work at Carnegie Mellon University, we have been able to recover finite element function spaces using hand-crafted neural network architectures, implying that the space of functions that can be represented by neural networks encompasses the space of finite elements. The integration of gradient flows through differentiable programming therefore allow us to attack high dimensional problems nested within engineering workflows such as automated meshing, a significant bottleneck in engineering workflows.
+
+Deep learning derives its powers from the composition of nonlienar operations, a setup in which model parameters can be tuned via gradient descent. CREATIVE TENSION HERE - integrations of gradient flows (good for high dimensional problems) with SOTA simulation technology (FEM/SEM - good for 2D,3D). scope for (1) automated meshing, (2) operator learning (3) geometry learning
+
+Need to understand (Barron space ideas) what function space outputs of neural networks lie in, and what are appropriate norms for analysis in these spaces. How to manipulate them to get a desired output? how to effectively do regression?
+
+# Our job as computational engineers
+
+Computational workflows form a tall stack of abstractions that map physical quantities like velocity to distributed data structures acted upon by numerical operators. Scientific computing consolidates my interest in physics and the intricate mathematical framework that attempts to explain it. As such, developing mathematical models to accurately capture physics is a creative problem I like spending time on.
+
+Present challenges in predictive modelling vary with the level of analysis applied from robust meshing of complex geometries to reliable turbulence models. With the aim of optimizing Computer Aided Engineering workflows, my focus is on developing application-specific tools for problems that advance humanity's technological prowess.
+
+Differentiable programming offer a superior way of integrating data with theory. Our job is to develop the tools that further our understanding the most. Aim is to develop problem specific architectures for PDE solving in complex geometries. The task is to develop a hybrid (sort) system where we can utilizes gradient flows (DL) and high order function approximation (FEM type) in an efficient way.
 
 ## Misc (do not read)
 This seems to be the nature of the universe: no matter how far you zoom in, you can still zoom in more. we're just limited by our abilities not but a lack of detail to discover. no matter how far you zoom out, you can zoom out more. there's always more stuff to look at. let's call the un-computable transcendental. now by virtue of its infiniteness and by virtue of the the finiteness of human abilities of logic and to reason, the relationship one has with the nature of the universe has to be private because nobody can articulate it completely and explain it to themselves or to others. it's like an infinitely layered story. something you can go on and on about without getting to the bottom of it. like a great book. or a great story. it's by definition that the transcendent cannot be reduced a single or any number of thoughts or ideas or things without it automatically losing its essence. Ok I should stop doing drugs.
