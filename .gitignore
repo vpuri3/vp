@@ -2,5 +2,7 @@ __site/
 .DS_Store
 node_modules/
 package-lock.json
-.github/
 .gitlab-ci.yml
+
+.*.swp
+Manifest.toml

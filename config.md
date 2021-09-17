@@ -15,8 +15,10 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Vedant Puri"
 website_descr = "vp personal webpage"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://vpuri3.github.io/"
 +++
+
+@def author = "Vedant Puri"
 
 <!--
 Add here global latex commands to use throughout your pages.
