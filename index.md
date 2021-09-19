@@ -3,11 +3,11 @@
 
 # Hi, I'm Vedant
 
-I like to solve partial differential equations in interesting geometries, often with powerful supercomputers. *Why*, you ask? Because everybody needs a hobby. JK, it's partly for the aesthetic pleasure of looking at cool visualizations and intricate patterns of tubrulent flows, and partly because it's useful to other folks in engineering. Scientific computing consolidates my interest in physics and the intricate mathematical framework that attempts to explain it. As such, developing mathematical models to accurately capture physics is a creative problem I like spending time on.
+I like to solve partial differential equations in interesting geometries, often with powerful supercomputers. *Why*, you ask? Of course for the aesthetic pleasure of looking at cool visualizations and intricate patterns of tubrulent flows! And partly because it's useful to other folks in engineering. Scientific computing is fun because it consolidates my interest in physics and the intricate mathematical framework that attempts to explain it. As such, developing mathematical models to accurately capture physics is a creative problem I like spending time on.
 
 I experiment with algorithms for solving PDE models that describe physics of problems like fluid flow, battery dynamics, heat conduction. My work is aimed at creating software tooling that can streamline engineering design and analysis cycles.
 
-To connect, you can email me at [vedantpuri@gmail.com](mailto:vedantpuri@gmail.com), or message me on [LinkedIn](https://www.linkedin.com/in/vpuri3/), or [Instagram](https://www.instagram.com/vponduty/) where I periodically post work-visualizations. Check out my [Github](https://github.com/vpuri3) for recent contributions.
+I live in Brooklyn, NY in Bushwick neighbourhood to maximize serendipity. To connect, you can email me at [vedantpuri@gmail.com](mailto:vedantpuri@gmail.com), or message me on [LinkedIn](https://www.linkedin.com/in/vpuri3/), or [Instagram](https://www.instagram.com/vponduty/) where I periodically post work-visualizations. Check out my [Github](https://github.com/vpuri3) for recent contributions.
 
 **LinkedIn bio** - Trained in applied mechanics, and mathematics, with experience in high performance computing, numerical algorithms, scientific machine learning, and computational fluid dynamics. Equally comfortable writing code or manipulating differential equations. Finished undergraduate studies at University of Illinois in Dec '19. My thesis was on wall-bounded turbulence with collaborators from Argonne National Lab. Currently working on scientific machine learning and numerical PDEs at Julia Computing.
 
