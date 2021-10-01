@@ -18,9 +18,9 @@ I live in Brooklyn, NY in Bushwick neighbourhood to maximize serendipity. To con
 
 **Photography** - For the past decade, I have been using a Canon DSLR with a wide aperture lens as an excuse to walk around and photograph people.  Check out [this](https://www.flickr.com/photos/128280868@N05/) not-up-to-date portfolio.
 
-**Books** - Besides mathematics, I read at the intersection of pragmatic nonfiction and unactionable philosophy. I always end up collecting books, even when I am living out of a suitcase. It's a problem! Some authors that have impacted my worldview are, in this order, Aleksandr Solzhenitsyn, Fyodor Dostoevsky, Jordan Peterson, Nassim Taleb, and Milan Kundera. Note to self: write down reading list.
+**Books** - Besides mathematics, I read at the intersection of pragmatic nonfiction and unactionable philosophy. I always end up collecting books, even when I am living out of a suitcase. It's a problem! Some authors that have impacted my worldview are, in this order, Aleksandr Solzhenitsyn, Fyodor Dostoevsky, Jordan Peterson, Nassim Taleb, and Milan Kundera. Of late, Saifedean Ammous's The Bitcoin Standard has served as an excellent introduction to austrian economics. Note to self: write down reading list.
 
 **Films** - I am a sucker for quality storytelling. Some must-watch experiences are Margin Call (2011), Gran Torino (2008), Das Leben der Anderen (2006), and Dil Chahta Hai (2001). Note to self: write down watch list.
 
-**Music** - Add spotify profile, soundcloud profile.
+**Music** - Always striving to find the right balance between touching vocals and clean melody. Into deep house, qawwali, and everything in between. Note to self: add spotify, soundcloud, YT.
 

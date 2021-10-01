@@ -28,7 +28,7 @@ In teaching foundational topics, including proving the validity of the variation
 ## Deep learning, composition, gradient flows
 In my work at Carnegie Mellon University, we have been able to recover finite element function spaces using hand-crafted neural network architectures, implying that the space of functions that can be represented by neural networks encompasses the space of finite elements. The integration of gradient flows through differentiable programming therefore allow us to attack high dimensional problems nested within engineering workflows such as automated meshing, a significant bottleneck in engineering workflows.
 
-Deep learning derives its powers from the composition of nonlienar operations, a setup in which model parameters can be tuned via gradient descent. CREATIVE TENSION HERE - integrations of gradient flows (good for high dimensional problems) with SOTA simulation technology (FEM/SEM - good for 2D,3D). scope for (1) automated meshing, (2) operator learning (3) geometry learning
+Deep learning derives its powers from the composition of nonlienar operations, a setup in which model parameters can be tuned via gradient descent. It's an interesting problem: integrating gradient flows in state of the art computational technology integrations of gradient flows (good for high dimensional problems) with state of the art simulation technology (good for 2D/3D).
 
 Need to understand (Barron space ideas) what function space outputs of neural networks lie in, and what are appropriate norms for analysis in these spaces. How to manipulate them to get a desired output? how to effectively do regression?
 
