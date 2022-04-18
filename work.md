@@ -53,3 +53,11 @@ I am working on deploying Physics Informed Neural Networks for Julia Computing's
 # PhD @ Carnegie Mellon University, 2022-
 
 In January 2022, I will join Carneige Mellon University to continue working on numerical PDEs with the [Viswanathan Research Group](https://www.cmu.edu/me/venkatgroup/) in the Mechanical Engineering Department. Having worked with the group for about a year, the group's emplasis on pushing out open source packages and ties to commercial markets constrains and guides my research endeavors in a fruitful direction. 
+
+## Why are tets everywhere?
+
+It's because they are everywhere. Geometry is designed with splines and immidiately translated and shared with tet meshes. Splines rule CAD because knots give a designer granular control over the shape of their part.
+
+I'm very curious about implicit geometry representations, particularly high order (neural too because that's just a different basis to same difference) because it provides a bigger bang for your buck: you can accurately represent a more complicated function with the same number of points with chebychev distribution rather than uniform distribution (Runge phenomena). The issue with spectral geometry processing might be with patching, how to make different spectral pieces talk to each other. In Spectral Element Method, C0 continuity is handled via a gather-scatter operation, meaning that the adjacency matrix only needs to account for the boundary nodes (sinceall other representation is local to the element).
+
+IDK how splines preserve locality. Would be interesting and meaningful to consider. 
