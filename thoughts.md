@@ -42,3 +42,11 @@ Differentiable programming offer a superior way of integrating data with theory.
 
 ## Misc (do not read)
 This seems to be the nature of the universe: no matter how far you zoom in, you can still zoom in more. we're just limited by our abilities not but a lack of detail to discover. no matter how far you zoom out, you can zoom out more. there's always more stuff to look at. let's call the un-computable transcendental. now by virtue of its infiniteness and by virtue of the the finiteness of human abilities of logic and to reason, the relationship one has with the nature of the universe has to be private because nobody can articulate it completely and explain it to themselves or to others. it's like an infinitely layered story. something you can go on and on about without getting to the bottom of it. like a great book. or a great story. it's by definition that the transcendent cannot be reduced a single or any number of thoughts or ideas or things without it automatically losing its essence. Ok I should get back to work.
+
+## Tet meshes
+
+Tetrehedral meshes are everywhere. Geometry is designed with splines and immidiately translated and shared with tet meshes. Splines rule CAD because knots give a designer granular control over the shape of their part.
+
+I'm very curious about implicit geometry representations, particularly high order spectral representations (neural too because that's just a different basis to same difference) because it provides a bigger bang for your buck: you can accurately represent a more complicated function with the same number of points with chebychev distribution rather than uniform distribution (Runge phenomena). The issue with spectral geometry processing might be with patching, ie how to make different spectral pieces talk to each other. In Spectral Element Method, C0 continuity is handled via a gather-scatter operation, meaning that the adjacency matrix only needs to account for the boundary nodes.
+
+It would be interesting to learn how splines preserve locality, and how they impose cotinuity conditions across "elements".
