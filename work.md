@@ -48,7 +48,7 @@ As such, the Viswanathan research group's emphasis on pushing out open source pa
 Started work on fully differentiable spectral element solver implemented in Julia.
 
 ## Julia Computing, 2021
-I am working on deploying Physics Informed Neural Networks for Julia Computing's commercial products under Dr. Chris Rackauckas.
+I am working on deploying Physics Informed Neural Networks for Julia Computing's commercial products under Dr. Chris Rackauckas. I also wrote the linear solver interface for `DifferentialEquations.jl` ecosystem.
 
 # PhD @ Carnegie Mellon University, 2022-
 
