@@ -3,7 +3,7 @@
 
 # Hi, I'm Vedant
 
-I like to solve partial differential equations in interesting geometries, often with powerful supercomputers. *Why*, you ask? Of course for the aesthetic pleasure of looking at cool visualizations and intricate patterns of tubrulent flows! And partly because it's useful to other folks in engineering. Scientific computing is fun because it consolidates my interest in physics and the intricate mathematical framework that attempts to explain it. As such, developing mathematical models to accurately capture physics is a creative problem I like spending time on.
+I like to solve partial differential equations in interesting geometries, often with powerful supercomputers. *Why*, you ask? Of course for the aesthetic pleasure of looking at cool visualizations and intricate patterns of TUBRULENT FLOWS! And partly because it's useful to other folks in engineering. Scientific computing is fun because it consolidates my interest in physics and the intricate mathematical framework that attempts to explain it. As such, developing mathematical models to accurately capture physics is a creative problem I like spending time on.
 
 I experiment with algorithms for solving PDE models that describe physics of problems like fluid flow, battery dynamics, heat conduction. My work is aimed at creating software tooling that can streamline engineering design and analysis cycles.
 
